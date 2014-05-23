@@ -1,0 +1,20 @@
+//////////////////////////////////////////////////////////////////
+// Options.txt - These are the base options that you selected
+//////////////////////////////////////////////////////////////////
+
+You have selected to use Maya 2015
+
+Vendor Name is: Autodesk
+
+Verbose Comments OFF
+
+Plug-in type number (0-Empty, 1-MEL, 2-MEL w/Undo, 3-DG Node)
+0
+
+Maya Type Name (Plug-in Name)
+simpleConstraint
+
+Included Libraries:
+Foundation
+OpenMaya
+OpenMayaAnim
